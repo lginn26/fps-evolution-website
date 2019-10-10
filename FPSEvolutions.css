@@ -3,8 +3,20 @@ body {
 }
 
 h1 {
-    font-size: xx-large;
+    font-size: 96px;
+    color: #ab0009;
+    border: 8px solid #690005;
     text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    color: #c2000a;
+}
+
+h3 {
+    font-size: 25px;
+    color: #520004; 
 }
 
 p {
