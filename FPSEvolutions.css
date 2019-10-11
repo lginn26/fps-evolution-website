@@ -1,5 +1,8 @@
 body {
     background-color: #ffe8a3;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
 }
 
 h1 {
@@ -22,4 +25,29 @@ h3 {
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color:#ff871f;
+}
+
+.highlight {
+    background-color: #ff9c45;
+}
+
+@media (max-width: 1250px) {
+    h1 {
+        font-size: 60px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+    h3 {
+        font-size: 20px;
+    }
 }
