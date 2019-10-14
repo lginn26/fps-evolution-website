@@ -24,7 +24,7 @@ h3 {
 
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    line-height: 1.5;
 }
 
 img {
@@ -37,6 +37,10 @@ a {
 
 .highlight {
     background-color: #ff9c45;
+}
+
+.fitted_img {
+    width: 600px;
 }
 
 @media (max-width: 1250px) {
