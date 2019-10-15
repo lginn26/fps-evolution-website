@@ -1,8 +1,11 @@
 body {
     background-color: #ffe8a3;
+    color: #ffc824;
+    border-width: 10px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
-    padding: 25px;
+    padding: 50px;
 }
 
 h1 {
@@ -25,14 +28,20 @@ h3 {
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.5;
+    color: #000000;
 }
 
 img {
     max-width: 100%;
+    border-style: ridge;
+    color: #520004;
+    border-width: 10px;
+    align-content: center;
 }
 
 a {
     color:#ff871f;
+    font-weight: bold;
 }
 
 .highlight {
