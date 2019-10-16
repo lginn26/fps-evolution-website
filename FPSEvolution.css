@@ -1,7 +1,11 @@
 body {
     background-color: #ffe8a3;
-    color: #ffc824;
+}
+
+.container {
     border-width: 10px;
+    color: #ffd65d;
+    border-style: solid;
     max-width: 900px;
     margin-left: auto;
     margin-right: auto;
@@ -50,6 +54,12 @@ a {
 
 .fitted_img {
     width: 600px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 1250px) {
