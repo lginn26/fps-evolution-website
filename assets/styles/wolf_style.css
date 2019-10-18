@@ -4,7 +4,8 @@ body {
 
 .container {
     border-width: 10px;
-    color: #ffd65d;
+    color: #00dae0;
+    background-color: #c4c4c4; 
     border-style: solid;
     max-width: 900px;
     margin-left: auto;
