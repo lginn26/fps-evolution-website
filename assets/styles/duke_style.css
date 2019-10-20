@@ -1,11 +1,11 @@
 body {
-    background-image: url("../images/wolfinstine_background.png");
+    background-image: url("../images/duke_background.jpg");
 }
 
 .container {
     border-width: 10px;
-    color: #00dae0;
-    background-color: #c4c4c4; 
+    color: #e07700;
+    background-color: #d80000; 
     border-style: solid;
     max-width: 900px;
     margin-left: auto;
@@ -15,19 +15,19 @@ body {
 
 h1 {
     font-size: 96px;
-    color: #0100f0;
-    border: 8px solid #010095;
+    color: #f09c00;
+    border: 8px solid #ffd000;
     text-align: center;
 }
 
 h2 {
     font-size: 40px;
-    color: #0302cc;
+    color: #cc6e02;
 }
 
 h3 {
     font-size: 25px;
-    color: #0100a3; 
+    color: #a35c00; 
 }
 
 p {
@@ -39,18 +39,17 @@ p {
 img {
     max-width: 100%;
     border-style: ridge;
-    color: #0100a3;
     border-width: 10px;
     align-content: center;
 }
 
 a {
-    color:#00d3d9;
+    color:#ffee00;
     font-weight: bold;
 }
 
 .highlight {
-    background-color: #00f8ff;
+    background-color: #ffd000;
 }
 
 .fitted_img {

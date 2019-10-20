@@ -1,11 +1,11 @@
 body {
-    background-image: url("../images/wolfinstine_background.png");
+    background-image: url("../images/quake_background.jpg");
 }
 
 .container {
     border-width: 10px;
-    color: #00dae0;
-    background-color: #c4c4c4; 
+    color: #05a000;
+    background-color: #0e5200; 
     border-style: solid;
     max-width: 900px;
     margin-left: auto;
@@ -15,19 +15,19 @@ body {
 
 h1 {
     font-size: 96px;
-    color: #0100f0;
-    border: 8px solid #010095;
+    color: #00f000;
+    border: 8px solid #1e9500;
     text-align: center;
 }
 
 h2 {
     font-size: 40px;
-    color: #0302cc;
+    color: #13cc02;
 }
 
 h3 {
     font-size: 25px;
-    color: #0100a3; 
+    color: #1ba300; 
 }
 
 p {
@@ -39,18 +39,17 @@ p {
 img {
     max-width: 100%;
     border-style: ridge;
-    color: #0100a3;
     border-width: 10px;
     align-content: center;
 }
 
 a {
-    color:#00d3d9;
+    color:#00d900;
     font-weight: bold;
 }
 
 .highlight {
-    background-color: #00f8ff;
+    background-color: #1eff00;
 }
 
 .fitted_img {
