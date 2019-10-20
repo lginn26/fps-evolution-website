@@ -1,0 +1,77 @@
+body {
+    background-image: url("../images/wolfinstine_background.png");
+}
+
+.container {
+    border-width: 10px;
+    color: #00dae0;
+    background-color: #c4c4c4; 
+    border-style: solid;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 96px;
+    color: #0100f0;
+    border: 8px solid #010095;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    color: #0302cc;
+}
+
+h3 {
+    font-size: 25px;
+    color: #0100a3; 
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    color: #000000;
+}
+
+img {
+    max-width: 100%;
+    border-style: ridge;
+    color: #0100a3;
+    border-width: 10px;
+    align-content: center;
+}
+
+a {
+    color:#00d3d9;
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: #00f8ff;
+}
+
+.fitted_img {
+    width: 600px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 1250px) {
+    h1 {
+        font-size: 60px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+}
