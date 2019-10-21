@@ -22,17 +22,21 @@ h1 {
 
 h2 {
     font-size: 40px;
-    color: #cc6e02;
+    color: #e07700;
 }
 
 h3 {
     font-size: 25px;
-    color: #a35c00; 
+    color: #e07700; 
 }
 
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.5;
+    color: #000000;
+}
+
+li {
     color: #000000;
 }
 

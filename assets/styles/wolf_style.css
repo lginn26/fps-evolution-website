@@ -36,6 +36,10 @@ p {
     color: #000000;
 }
 
+li {
+    color: #000000;
+}
+
 img {
     max-width: 100%;
     border-style: ridge;
@@ -47,6 +51,7 @@ img {
 a {
     color:#00d3d9;
     font-weight: bold;
+    font-size: 25px;
 }
 
 .highlight {

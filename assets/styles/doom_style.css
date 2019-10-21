@@ -36,6 +36,10 @@ p {
     color: #000000;
 }
 
+li {
+    color:#000000;
+}
+
 img {
     max-width: 100%;
     border-style: ridge;
