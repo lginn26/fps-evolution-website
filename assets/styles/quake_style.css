@@ -43,6 +43,16 @@ img {
     align-content: center;
 }
 
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    color: #000000; 
+}
+
+iframe {
+    max-width: 100%;
+}
+
 a {
     color:#00d900;
     font-weight: bold;
@@ -72,5 +82,9 @@ a {
     }
     h3 {
         font-size: 20px;
+    }
+    iframe {
+        width: 500px;
+        height: 300px;
     }
 }

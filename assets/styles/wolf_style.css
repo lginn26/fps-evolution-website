@@ -38,6 +38,8 @@ p {
 
 li {
     color: #000000;
+    line-height: 1.5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {
@@ -46,6 +48,10 @@ img {
     color: #0100a3;
     border-width: 10px;
     align-content: center;
+}
+
+iframe {
+    max-width: 100%;
 }
 
 a {
@@ -78,5 +84,9 @@ a {
     }
     h3 {
         font-size: 20px;
+    }
+    iframe {
+        width: 500px;
+        height: 300px;
     }
 }
